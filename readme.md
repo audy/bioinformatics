@@ -14,3 +14,4 @@
 - prokka [ annotation ]
 - scikit-learn [ libraries, python ]
 - seaview [ msa, visualization ]
+- fastqc [ htps, qc ]

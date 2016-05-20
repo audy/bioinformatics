@@ -1,5 +1,4 @@
-# Bioinformatics Programs
-
+# Bioinformatics Software
 
 - SMRT Analysis [ de-novo assembly, reference assembly, methylation analysis ]
 - a5 [ de-novo assembly ]
